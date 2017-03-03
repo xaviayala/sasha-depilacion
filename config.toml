@@ -11,11 +11,10 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  description = "Depilación y belleza"
+  copyright = "&copy;2016 Sasha"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "Soy estecicién y masajista especialitzada en masajes relajantes terapéuticos deportivos descontracturantes Sacrocraneala, drenaje limfatico, antiestrés.  Música relajante y velas aromáticas relajantes. Depilaciones con cera caliente y tibia de todo el cuerpo. Aceites y crema s especial post depilación relajan y cuidan tu piel."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -33,15 +32,15 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
+  name = "Servicios"
   url = ""
 
   [[params.navlinks]]
-  name = "About"
+  name = "Sobre mi"
   url = "about/"
 
   [[params.navlinks]]
-  name = "Get in touch"
+  name = "Contacto"
   url = "contact/"
 
   [params.social]
